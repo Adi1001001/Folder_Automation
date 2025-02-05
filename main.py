@@ -2,7 +2,7 @@ from util import *
 from database_handling import *
 
 # Define the folder name and files
-files = ["main.py", "README.md", "requirements.txt", ".gitignore", "LICENCE"]
+files = ["main.py", "README.md", "requirements.txt", ".gitignore", "util.py", "LICENCE"]
 
 # Run the function
 path = check_folder_path()
